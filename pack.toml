@@ -1,0 +1,13 @@
+name = "Glitzerhausen"
+author = "Glitzerhausen"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d1d722441ce5a4d67c262c3fbea2467dd6786027a47e1ab2aa2ed5bb71fd247"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

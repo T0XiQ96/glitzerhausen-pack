@@ -1,0 +1,30 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "96e6f76c367bf89cc570c0e95a16979806e4c3e24f135878b272e3ef43e00b37"
+metafile = true
+
+[[files]]
+file = "mods/glitz.jar"
+hash = "83eb8017a1246ad2fd2d600910f55667b64434b1063e64d47d9b81a5475fa41e"
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+metafile = true
