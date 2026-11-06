@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitz.jar"
-hash = "23209803a34e39d439f34a7b9c2117caac5bcba454e06e4cae3b7e7b1144e7db"
+hash = "2fb531703243733f91343664a06428848f4321312ff6dac36d963408d7f62f22"
 
 [[files]]
 file = "mods/iris.pw.toml"
