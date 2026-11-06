@@ -12,11 +12,16 @@ metafile = true
 
 [[files]]
 file = "mods/glitz.jar"
-hash = "eda6e0e4064374ac2c6f4fb436993c37f8f69528029559b570563c3e2e2dfa7d"
+hash = "c9b7afee2b0ed881320e0395b4aa0eebbd3d8840ea66551d1f9214c3c20534b1"
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "abaff630ec5a2f28ada62238b81a05313d5609282fa182ca64ba1bab7953d9ee"
 metafile = true
 
 [[files]]
