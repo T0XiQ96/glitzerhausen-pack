@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitz.jar"
-hash = "841269bfc5134f3ead23494e2268ec8de64a966e380b637893b80c9cf2b18113"
+hash = "00f001ae74c9ac0323143553fbf5fe22abda8e94d7dc9614f9c4bd8e112591c3"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -27,4 +27,14 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "1d892c58b3e1eede0f0380955b0e53bd6f55d5cbcefa4a6c15eae8d7924c0e26"
 metafile = true
